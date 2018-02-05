@@ -1,0 +1,68 @@
+html,body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Antic Slab', serif;
+	font-size: 16px;
+}
+
+button{
+	font-family: 'Antic Slab', serif;
+	width: 20%;
+	padding: 10px;
+	font-size: 0.2em;
+	margin: 1.7%;
+}
+
+.main-container{
+/*	width:90%;*/
+/*	max-width: 1080px;*/
+	margin: 10px auto;
+/*	background-color: blanchedalmond;*/
+}
+
+.header-container{
+	text-align: center;
+	font-size: 4em;
+	padding: 0px;
+}
+
+.review-container{
+	margin: 40px;
+/*	background-color: aqua;*/
+}
+
+.single-review{
+	margin: 10px;
+	display: inline-block;
+	width: 30%;
+	height: 30%;
+	border-style: solid;
+	border-bottom-color: black;
+	border-top: white;
+	border-right: white;
+	border-left: white;
+	padding: 5px;
+}
+
+.review-text{
+	font-size: 2em;
+}
+
+.review-line2{
+	width: 35%;
+	margin: 4%;
+}
+
+.comp1{
+	float: left;
+}
+
+.comp2{
+	float: right;
+}
+
+a{
+	color: black;
+}
+
+
